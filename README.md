@@ -12,7 +12,7 @@ Bu proje, yemek işletmeleri için tasarlanmıştır ve müşterilerin kolayca m
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://r.resimlink.com/DTrbJ3X.png)
+![Adsız](https://github.com/emrahyasinisik/mealsApp/assets/36080546/e8be0ab3-1dcf-4968-bba3-3f87df8ad531)
 
   
 ## Ekip
