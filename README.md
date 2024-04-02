@@ -12,7 +12,7 @@ Bu proje, yemek işletmeleri için tasarlanmıştır ve müşterilerin kolayca m
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://r.resimlink.com/uLn9TIX2P.png](https://r.resimlink.com/DTrbJ3X.png) 
+![Uygulama Ekran Görüntüsü](https://r.resimlink.com/DTrbJ3X.png)
 
   
 ## Ekip
